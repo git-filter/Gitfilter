@@ -5,6 +5,9 @@ Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
 of this license document, but changing it is not allowed.
 
+Trademark and Branding Restrictions:
+The names "GitFilter", its logo, and branding elements are trademarks of GitFilter.com. Any modified or redistributed versions of this software must retain the GitFilter name, logo, and attribution unless explicitly permitted by GitFilter's official maintainers. You are not permitted to use GitFilter branding in a misleading way or to imply an endorsement.
+
                             Preamble
 
 The GNU Affero General Public License is a free, copyleft license for
